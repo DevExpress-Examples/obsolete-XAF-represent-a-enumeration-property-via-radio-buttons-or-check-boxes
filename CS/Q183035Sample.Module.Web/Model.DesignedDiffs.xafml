@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Application>
+	<BOModel>
+		<Class Name="Q183035Sample.Module.SampleObject">
+			<Member Name="ComboboxEnumProperty" PropertyEditorType="Q183035Sample.Module.Web.CheckboxEnumPropertyEditor" />
+			<Member Name="RadioButtonEnumProperty" PropertyEditorType="Q183035Sample.Module.Web.RadioButtonEnumPropertyEditor" />
+		</Class>
+	</BOModel>
+	<SchemaModules>
+		<SchemaModule Name="DevExpress.ExpressApp.SystemModule.ShowNavigationItemController" Version="8.2.3.4806" />
+		<SchemaModule Name="SystemModule" Version="8.2.3.4806" IsNewNode="True" />
+		<SchemaModule Name="SystemAspNetModule" Version="8.2.3.4806" IsNewNode="True" />
+		<SchemaModule Name="DevExpress.ExpressApp.SystemModule.HideActionsViewController" Version="8.2.3.4806" IsNewNode="True" />
+	</SchemaModules>
+</Application>
