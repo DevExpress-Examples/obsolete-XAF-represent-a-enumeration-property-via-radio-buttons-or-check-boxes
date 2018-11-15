@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [CheckboxEnumPropertyEditor.cs](./CS/Q183035Sample.Module.Web/CheckboxEnumPropertyEditor.cs)
+* [RadioButtonEnumPropertyEditor.cs](./CS/Q183035Sample.Module.Web/RadioButtonEnumPropertyEditor.cs)
+* [SampleObject.cs](./CS/Q183035Sample.Module/SampleObject.cs)
+<!-- default file list end -->
 # OBSOLETE - How to represent a enumeration property via radio buttons or check boxes on the Web
 
 
